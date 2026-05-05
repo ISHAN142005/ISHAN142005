@@ -26,7 +26,6 @@
 - 🎯 Gearing up to specialize in **Artificial Intelligence & Machine Learning (AI & ML)** in my second year.
 - 💻 Building my foundation through hands-on programming, rigorous lab work, and real-world logic building.
 - 🌊 Embracing **vibe coding**—finding the perfect flow state to write clean, efficient, and intuitive logic.
-- 🏋️‍♂️ When I'm away from the keyboard, I'm usually hitting the gym or experimenting with new recipes in the kitchen.
 
 ---
 

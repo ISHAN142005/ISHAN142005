@@ -1,20 +1,19 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ishan%20Bohra&fontSize=80&fontAlignY=35" alt="Header Banner">
-</div>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="45" /> Hi, I'm Ishan Bohra
+</h1>
 
-<h2 align="center">Hi 👋, I'm Ishan</h2>
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Aspiring+Software+Engineer;AI+%26+ML+Enthusiast;Vibe+Coder" alt="Typing SVG" /></a>
-</div>
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;AI+%26+ML+Enthusiast;Currently+learning+Python;Turning+ideas+into+code!" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishan-bohra-b23ba337b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <!-- Replace with your actual email address below -->
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:ishanbohra1414@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -22,48 +21,49 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently mastering **C** and **C++** alongside **Data Structures**.
-- 🎯 Gearing up to specialize in **Artificial Intelligence & Machine Learning (AI & ML)** in my second year.
-- 💻 Building my foundation through hands-on programming, rigorous lab work, and real-world logic building.
-- 🌊 Embracing **vibe coding**—finding the perfect flow state to write clean, efficient, and intuitive logic.
+* 🎓 Currently in my second semester of B.Tech CSE, gearing up to specialize in **Artificial Intelligence & Machine Learning**.
+* 🐍 Currently focusing on mastering **Python** alongside Data Structures and Algorithms.
+* 🎮 Engineered a standalone **GUI Hangman Game** utilizing C, the GTK framework, and SFML for a seamless graphical experience.
+* 🏆 Hackathon winner (1st semester) focused on leveraging AI tools for efficient project building.
+* 🥈 **2nd Runner-Up** in a 2nd-semester hackathon for developing **THE RISE OF LUMINARY**, a custom game built in C++ using SFML.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Tools:**
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,gcp,git,vscode&perline=6" alt="Tech Stack" />
   </a>
 </p>
 
-**Frameworks:** GTK, SFML
-
 ---
 
-### 🚀 Featured Project
+### 🏆 GitHub Trophies
 
-**🎮 GUI Hangman Game**
-- Designed and developed a fully interactive, graphical version of the classic Hangman game from scratch.
-- Engineered the graphical user interface utilizing both the **GTK framework** and **SFML** to deliver a responsive, visually engaging, and seamless user experience.
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ISHAN142005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Ishan's Trophies" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ISHAN142005&show_icons=true&theme=tokyonight&hide_border=true" alt="Ishan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHAN142005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISHAN142005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ISHAN142005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ishan's GitHub Stats" />
+</p>
 
 <p align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ISHAN142005&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISHAN142005&theme=tokyonight&hide_border=true&background=0D1117" alt="Ishan's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHAN142005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ISHAN142005&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>

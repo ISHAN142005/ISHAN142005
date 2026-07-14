@@ -1,11 +1,11 @@
-<!-- ULTRA PRO MAX HEADER BANNER -->
+<!-- ULTRA PRO MAX HEADER BANNER (FIXED) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Ishan%20Bohra&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI/ML%20Specialist%20%7C%20C%2B%2B%20%26%20Python&descAlignY=55&descAlign=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Ishan%20Bohra&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20AI%20and%20ML%20Specialist&descAlignY=55&descAlign=62" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%40+The+NorthCap+University;Specializing+in+Artificial+Intelligence+%26+ML;Building+Scalable+Logic+in+C%2B%2B+%26+Python;Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%40+The+NorthCap+University;Specializing+in+Artificial+Intelligence;Building+Scalable+Logic+in+C%2B%2B+%26+Python;Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
   </a>
 </div>
 
@@ -110,14 +110,14 @@ My core focus lies in mastering **Data Structures and Algorithms**, advancing my
 *This interactive dashboard is configured with cache-busting logic and includes private repository contributions to accurately reflect my true coding streak and activity.*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ISHAN142005&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&count_private=true&v=1" alt="Ishan's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=ISHAN142005&theme=react&hide_border=true&background=0D1117&count_private=true&v=1" alt="Ishan's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ISHAN142005&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&count_private=true&v=2" alt="Ishan's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ISHAN142005&theme=react&hide_border=true&background=0D1117&count_private=true&v=2" alt="Ishan's GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHAN142005&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHAN142005&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2" alt="Top Languages" width="40%" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ISHAN142005&theme=react&no-frame=true&no-bg=true&margin-w=15&column=4" alt="Ishan's Trophies" width="55%" />
   </a>
@@ -127,13 +127,7 @@ My core focus lies in mastering **Data Structures and Algorithms**, advancing my
 
 <div align="center">
   <h4>🔥 Contribution Activity Graph</h4>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISHAN142005&theme=react&hide_border=true&bg_color=0D1117&color=0e75b6&line=0e75b6&point=FFFFFF" width="100%" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="GitHub Snake Animation" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISHAN142005&theme=react&hide_border=true&bg_color=0D1117&color=0e75b6&line=0e75b6&point=FFFFFF&v=2" width="100%" alt="Contribution Graph" />
 </div>
 
 ---

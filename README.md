@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,45:0F172A,75:1D4ED8,100:38BDF8&text=ISHAN%20BOHRA&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" alt="header banner" />
-
+<img src="https://raw.githubusercontent.com/ISHAN142005/ISHAN142005/main/assets/header.svg" alt="header banner" />
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Software+with+Logic+%26+Creativity.;Exploring+Artificial+Intelligence+%26+Machine+Learning.;C+%7C+C%2B%2B+%7C+Python+Developer.;Turning+Ideas+into+Working+Software.;Always+Learning.+Always+Building." alt="Typing SVG" />
 </a>

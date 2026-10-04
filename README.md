@@ -1,9 +1,10 @@
 <div align="center">
 
-  <h1>Hi, I'm Ishan👋 </h1>
-  <p><h3>Computer Science Engineering Student • C++ & Python Developer • AI & ML Enthusiast</h3></p>
-
-<br><br>
+  <h1>Hi, I'm Ishan 👋</h1>
+  
+  <strong>Computer Science Engineering Student • C++ & Python Developer • AI & ML Enthusiast</strong>
+  
+  <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=ISHAN142005&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
 

@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ISHAN142005/ISHAN142005/main/assets/header.svg" alt="header banner" />
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Software+with+Logic+%26+Creativity.;Exploring+Artificial+Intelligence+%26+Machine+Learning.;C+%7C+C%2B%2B+%7C+Python+Developer.;Turning+Ideas+into+Working+Software.;Always+Learning.+Always+Building." alt="Typing SVG" />
-</a>
+  <h1>Hi, I'm Ishan👋 </h1>
+  <p><h3>Computer Science Engineering Student • C++ & Python Developer • AI & ML Enthusiast</h3></p>
 
 <br><br>
 
@@ -41,7 +39,7 @@
       </ul>
     </td>
     <td width="25%" align="center" valign="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="3D Avatar" width="160" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="3D Avatar" width="160" />
     </td>
   </tr>
 </table>
@@ -209,7 +207,7 @@ B.Tech — Computer Science & Engineering
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHAN142005&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISHAN142005&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ISHAN142005&repo=THE-RISE-OF-LUMINARY&theme=github_dark" alt="Pinned Project" />
     </td>
   </tr>
 </table>

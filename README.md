@@ -199,15 +199,15 @@ B.Tech — Computer Science & Engineering
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=ISHAN142005&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ISHAN142005&theme=github-dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ISHAN142005&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ISHAN142005&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="90%" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ISHAN142005&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ISHAN142005&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -221,7 +221,6 @@ B.Tech — Computer Science & Engineering
 
 </div>
 
-> **Note:** the contribution-snake animation below needs a one-time GitHub Actions setup on this repo (see [snk](https://github.com/Platane/snk) action) — see the setup note at the bottom of this file.
 
 <div align="center">
 

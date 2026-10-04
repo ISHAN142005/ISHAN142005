@@ -194,18 +194,26 @@ B.Tech — Computer Science & Engineering
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ISHAN142005&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHAN142005&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="42%" />
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://streak-stats.demolab.com?user=ISHAN142005&theme=github-dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=ISHAN142005&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHAN142005&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISHAN142005&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+    </td>
+  </tr>
+</table>
 
 <br>
-
-<img src="https://streak-stats.demolab.com?user=ISHAN142005&theme=github-dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ISHAN142005&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="90%" />
-
-<br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=ISHAN142005&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
 

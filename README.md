@@ -7,43 +7,44 @@
 
 <br><br>
 
-<a href="mailto:ishanbohra1414@gmail.com"><img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-<a href="https://github.com/ISHAN142005"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/ishan-bohra-b23ba337b"><img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/ISHAN142005/"><img src="https://img.shields.io/badge/LeetCode-020617?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
-<a href="https://www.hackerrank.com/ishan1414"><img src="https://img.shields.io/badge/HackerRank-020617?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" /></a>
-<a href="https://www.hackerearth.com/@ishanbohra1414"><img src="https://img.shields.io/badge/HackerEarth-020617?style=for-the-badge&logo=hackerearth&logoColor=2C3454" alt="HackerEarth" /></a>
-
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=ISHAN142005&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 <br>
 
-## 👋 About Me
+### Connect with me.😇
 
-I'm **Ishan Bohra**, a Computer Science Engineering student at **The NorthCap University**, focused on building strong foundations in software engineering, problem solving, and emerging AI technologies.
+<p align="left">
+<a href="mailto:ishanbohra1414@gmail.com"><img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="https://github.com/ISHAN142005"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/ishan-bohra-b23ba337b"><img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/ISHAN142005/"><img src="https://img.shields.io/badge/LeetCode-020617?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+<a href="https://www.hackerrank.com/ishan1414"><img src="https://img.shields.io/badge/HackerRank-020617?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" /></a>
+<a href="https://www.hackerearth.com/@ishanbohra1414"><img src="https://img.shields.io/badge/HackerEarth-020617?style=for-the-badge&logo=hackerearth&logoColor=2C3454" alt="HackerEarth" /></a>
+</p>
 
-I enjoy taking an idea, breaking it down into logical components, and turning it into something that actually works.
+### About Me.😊
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                         ISHAN BOHRA                           │
-├──────────────────────────────────────────────────────────────┤
-│ 🎓 Computer Science Engineering Student                       │
-│ 💻 Software Development                                       │
-│ 🧠 Data Structures & Algorithms                                │
-│ 🤖 Artificial Intelligence & Machine Learning                  │
-│ 🎮 C++ / Game & Interactive Application Development            │
-│ 🐍 Python Development                                          │
-│ ☁️  Cloud & Modern Software Engineering                        │
-│ 🚀 Hackathons • Projects • Continuous Learning                 │
-└──────────────────────────────────────────────────────────────┘
-```
-
-> **I don't just want to learn technology — I want to build with it.**
+<table width="100%" border="0">
+  <tr>
+    <td width="75%" valign="top">
+      <ul>
+        <li>🎓 A Computer Science Engineering Student at The NorthCap University.</li>
+        <li>💻 Code 👨‍💻 ➡ Eat 🍽️ ➡ Sleep 💤 ➡ Repeat 🔁.</li>
+        <li>🧑‍💻 Software Developer focused on clean and maintainable code.</li>
+        <li>🧠 Learning and focused on Data Structures & Algorithms and AI/ML.</li>
+        <li>🎮 C++ / Game & Interactive Application Developer.</li>
+        <li>🎈 FUN Fact: I don't just want to learn technology — I want to build with it.</li>
+        <li>👯 I'm looking to collaborate on projects including Open Source and AI/ML.</li>
+        <li>📫 How to reach me: <a href="mailto:ishanbohra1414@gmail.com">ishanbohra1414@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="25%" align="center" valign="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="3D Avatar" width="160" />
+    </td>
+  </tr>
+</table>
 
 <br>
 

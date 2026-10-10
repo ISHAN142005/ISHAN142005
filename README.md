@@ -110,10 +110,10 @@ A graphical Hangman application built to explore desktop GUI development and eve
 
 <br>
 
-### 🌊 SamudraVeda 🔒 *(Private)*
-**Confidential • Active Development**
+### 🌊 SamudraVedh 🔒 *(Private)*
+**AI • Deep Learning • Oceanography • Disaster Management**
 
-An upcoming private software project currently in development. Focused on delivering a robust and specialized solution. More details and the repository will be revealed upon its official release!
+An AI-powered framework built for **Smart India Hackathon 2026**. It uses a U-Net Deep Learning model to reconstruct 3D subsurface ocean temperatures from satellite observations, enabling real-time cyclone tracking and disaster early warnings on a laptop CPU without needing supercomputers.
 
 <br>
 

@@ -110,6 +110,13 @@ A graphical Hangman application built to explore desktop GUI development and eve
 
 <br>
 
+### 🌊 SamudraVeda 🔒 *(Private)*
+**Confidential • Active Development**
+
+An upcoming private software project currently in development. Focused on delivering a robust and specialized solution. More details and the repository will be revealed upon its official release!
+
+<br>
+
 ### 📂 More on GitHub
 
 | Repository | Description | Stack |

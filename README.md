@@ -80,14 +80,13 @@
 
 ## 🚀 Featured Projects
 
-### 🎓 [Together — Student Community Platform](https://together-student-community-platform.vercel.app/) 🔒 *(Private)*
-**Next.js 16 • React 19 • TypeScript • Tailwind CSS • Prisma • NextAuth • Vercel**
+### 🎓 Together — Student Community Platform 🔒 *(Private)*
+**Next.js 16 • React 19 • TypeScript • Tailwind CSS • Prisma • NextAuth**
 
 An independent multi-campus web platform designed to streamline student life and eliminate campus fragmentation across Indian colleges and universities.
 
 - **The Problem:** Campus communication, textbook exchanges, club announcements, and academic tracking are scattered across unorganized chat groups and physical notice boards.
 - **The Solution:** Centralizes multi-university onboarding (33+ institutions), a zero-fee peer-to-peer student marketplace, dedicated club discussion hubs, and academic utilities (75% attendance rule simulator & exam countdowns).
-- 🌐 **[Explore Live Demo on Vercel](https://together-student-community-platform.vercel.app/)**
 
 <br>
 

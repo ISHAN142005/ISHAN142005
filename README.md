@@ -127,6 +127,19 @@ An AI-powered framework built for **Smart India Hackathon 2026**. It uses a U-Ne
 
 <br>
 
+### 🪔 Royal Diwali — Interactive Festive & Shri Ram Darbar Web Experience 🔒 *(Private)*
+**React 18 • TypeScript • Vite • Tailwind CSS • Framer Motion • HTML5 Canvas • Web Audio API**
+
+An interactive, multi-stage Indian festive web application crafted to deliver a personalized royal Diwali celebration and virtual cultural experience.
+
+**Engineering Highlights**
+- Interactive **Divine Shri Ram Darbar Darshan** with natural hand-held clockwise *Aarti* motion and synchronized sacred audio
+- 6-stage state-driven celebration flow with dynamic URL parameter personalization (`?from=&to=`) and viral link-sharing chain
+- Custom **HTML5 Canvas** interactive fireworks & firecracker physics engine, glowing *diyas*, and 4 animated SVG mystery gift boxes
+- Multi-track festive audio controller (background ambience, *Aarti*, and firecracker sound effects) built with HTML5 Audio & Web Audio API
+
+<br>
+
 ### 📂 More on GitHub
 
 | Repository | Description | Stack |
